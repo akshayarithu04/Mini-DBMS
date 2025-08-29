@@ -1,0 +1,9 @@
+𝐌𝐢𝐧𝐢 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦 (𝐃𝐁𝐌𝐒) 
+
+•Designed and implemented a file-based DBMS supporting database and table operations (create, use, drop, show).
+
+•Built a schema management system with .meta files to handle table structures and column definitions.
+
+•Developed data insertion with strict type validation (INT, STRING) ensuring schema-level integrity.
+
+•Applied Object-Oriented Design & File I/O concepts
